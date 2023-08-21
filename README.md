@@ -11,9 +11,13 @@
 <p>⚡ Technologies: React</p>
 
 
-<div>✌️ Most Used Languages :</div>
+<h3>✌ Most Used Languages :</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>🔥 My Stats :</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
