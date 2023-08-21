@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
-<p><img src=https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif width="30" height="150"/></p>
+<p><img src=https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif width="300" height="150"/></p>
 <h1 align="center">Hello, I'm Lisa</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a Junior Frontend Developer from Russia with a passion for creating beautiful and functional websites. </h3>
