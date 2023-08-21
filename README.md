@@ -2,7 +2,7 @@
 <div align="center"><img src=https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif width="300" height="200" align="center"/></div>
 <h1 align="center">Hello, I'm Lisa!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<h3 align="center">I'm a Junior Frontend Developer from Russia with a passion for creating beautiful and functional websites🌸 </h3>
+<h3 align="center">I'm a Junior Frontend Developer from Moscow with a passion for creating beautiful and functional websites🌸 </h3>
 
 ---
 
