@@ -8,9 +8,8 @@
 
 
 <p>💻 I’m currently working on my pet project in React and imporving my Java Script and ReactJS skills</p>
-<p>🌱 I’m currently learning TypeScript.</p>
-<p>💬 Ask me about: tech, movies and a little bit about psychology.</p>
-<p>⚡ Technologies: React</p>
+<p>🌱 I’m currently learning TypeScript</p>
+<p>💬 Ask me about: tech, movies and a little bit about psychology</p>
 
 ---
 
