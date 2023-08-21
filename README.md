@@ -1,6 +1,6 @@
-<h1 align="center">Hello, I'm Lisa and I am frontend developer<a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hello, I'm Lisa and I am frontend developer<a href="https://daniilshat.ru/" target="_blank">Lisa</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from RussiaI'm a Junior Frontend Developer from Russia with a passion for creating beautiful and functional websites. I have a solid understanding of HTML, CSS, and JavaScript, as well as experience with framework such as React.</h3>
+<h3 align="center">I'm a Junior Frontend Developer from Russia with a passion for creating beautiful and functional websites. </h3>
 
 <!--
 **Lisa3689/Lisa3689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
