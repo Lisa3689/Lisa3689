@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E8B4EF&width=435&lines=Welcome+to+Lisa+GitHub+Profile" alt="Typing SVG" /></a>
 <div align="center"><img src=https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif width="300" height="200" align="center"/></div>
-<h1 align="center">Hello, I'm Lisa</a> 
+<h1 align="center">Hello, I'm Lisa!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<h3 align="center">I'm a Junior Frontend Developer from Russia with a passion for creating beautiful and functional websites. </h3>
+<h3 align="center">I'm a Junior Frontend Developer from Russia with a passion for creating beautiful and functional websites</h3>
 
 <!--
 **Lisa3689/Lisa3689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
